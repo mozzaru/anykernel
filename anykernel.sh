@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=mido
 supported.versions=9-12
-supported.patchlevels=2019-09-
+supported.patchlevels=2020-01-
 '; } # end properties
 
 # shell variables
