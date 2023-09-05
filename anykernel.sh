@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Prototype Kernel for Redmi 4 Prime
+kernel.string=Melon Kernel 4.9-337 for Redmi 4 Prime
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=markw
-supported.versions=9-13
+supported.versions=10-13
 supported.patchlevels=2020-01-
 '; } # end properties
 
