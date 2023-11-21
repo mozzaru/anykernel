@@ -11,7 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=markw
-supported.versions=10-13
+supported.versions=10-14
 supported.patchlevels=2020-01-
 '; } # end properties
 
