@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Fussion Kernel for Redmi note 4/4x mido by Alone0316 
+kernel.string=Kernel for Redmi 4 Prime markw
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mido
-supported.versions=9-14
+device.name1=markw
+supported.versions=10-14
 supported.patchlevels=2020-01-
 '; } # end properties
 
