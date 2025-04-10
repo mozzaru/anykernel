@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=fluidKernel 4.9-337 for Redmi 4 Prime
+kernel.string=PerfKernel 4.9-337 for Redmi 4 Prime
 do.devicecheck=1
 do.modules=0
 do.systemless=0
